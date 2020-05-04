@@ -40,6 +40,10 @@ h5 {
   font-weight: bold;
 }
 
+h2 {
+  margin-left: 4rem;
+}
+
 h1:last-child,
 h2:last-child,
 h3:last-child,
@@ -92,7 +96,7 @@ h6 {
   letter-spacing: 0.15em;
   text-transform: uppercase;
   margin: 0 0 1em 0;
-  color: "#1E90FF";
+  color: #00aff0;
 }
 
 section {
